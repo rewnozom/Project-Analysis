@@ -3,7 +3,7 @@
 ![Project Status](https://img.shields.io/badge/status-beta-orange)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-
+# **WARNING!! CAN TAKE LONG TIME IF YOU HAVE MANY PROJECTS!**
 A comprehensive tool for analyzing project structures, detecting frameworks, and identifying microservice architectures with an intuitive dark-themed GUI.
 
 ![Project Analyzer Screenshot](docs/gui.png)
