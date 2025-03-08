@@ -6,7 +6,7 @@
 
 A comprehensive tool for analyzing project structures, detecting frameworks, and identifying microservice architectures with an intuitive dark-themed GUI.
 
-![Project Analyzer Screenshot](docs/screenshot.png)
+![Project Analyzer Screenshot](docs/gui.png)
 
 ## Features
 
